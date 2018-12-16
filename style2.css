@@ -1,0 +1,14 @@
+div {
+	font-size: 20px;
+	font-family: Times, 'Times New Roman', serif; /* Шрифт */
+}
+
+#btn, h1, h2, hr {
+display: none;                                  /*Скрываем элементы*/
+}
+
+body {
+	background-image: none;                       /*скрываем фон*/
+}
+
+
